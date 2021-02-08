@@ -1,11 +1,11 @@
 html {
   font-family: 'Fira Sans', sans-serif;
+  background-color: blueviolet;
 }
 h1 {
   margin: 0;
   padding: 20px 0;
   color: #00539F;
-  text-shadow: 3px 3px 1px black;
   text-align: center;
 }
 
@@ -13,8 +13,7 @@ p {
   color: black;
   font-weight: 900;
   border: 5px solid black;
-  text-shadow: 1px 1px blue;
-  background-color: orange;
+  background-color: white;
 }
 
 img {
@@ -29,5 +28,5 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: pink;
 }
